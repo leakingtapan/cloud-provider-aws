@@ -1,4 +1,4 @@
-module k8s.io/cloud-provider-aws
+module github.com/kubernetes/cloud-provider-aws
 
 exclude (
 	github.com/Sirupsen/logrus v1.1.0
